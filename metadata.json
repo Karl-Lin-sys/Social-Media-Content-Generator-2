@@ -1,0 +1,6 @@
+{
+  "name": "Social Media Content Generator",
+  "description": "Cross-platform content and image generator for LinkedIn, Twitter, and Instagram using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
